@@ -8,6 +8,7 @@ E como arrumar um trabalho
 - Como conseguir um emprego
 - Conseguir um emprego sem experiência
 - Sobre a primeira vaga
+- Vários artigos sobre trabalho remoto, trabalho no exterior, etc
 - Modelos de contratos das nossas áreas
 - Ideias para projetos na área de programação e similares
 - Sites com oferta de trabalho
