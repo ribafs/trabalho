@@ -1,6 +1,6 @@
 # Boas informações sobre Trabalho
 
-E como arrumar um trabalho
+E como arrumar um
 
 - Dicas sobre Entrevistas
 - Modelo e dicas sobre currículos
