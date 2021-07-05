@@ -20,4 +20,5 @@ E como arrumar um trabalho
 
 Caso tenha uma dica interessante que queira compartilhar me mande via Issues
 
+https://github.com/ribafs/trabalho/issues
 
