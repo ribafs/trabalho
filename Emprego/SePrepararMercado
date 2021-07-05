@@ -1,0 +1,62 @@
+O que estudar para se valorizar para o mercado?
+
+Gostaria de compartilhar algum conhecimento e experiência sobre o assunto com a intenção de provocar colegas que passaram por experiências parecidas e que podem colaborar para que ajudemos os colegas iniciantes a entrarem na área já com o pé direito, melhor preparados para o mercado de trabalho, que está a cada dia mais exigente. Por favor, comente e criemos aqui uma referência para enriquecer a área.
+
+Lembrando que o mercado de trabalho é complicado. Ele tem muita força, pois é ele quem paga e até que pode exigir mais de nós a cada dia. Se continuar assim, vai chegar ao absurdo de este mercado exigir que um candidato saiba tudo sobre PHP e também conheça bem todas as tecnologias auxiliares que ele usa. Assim basta contratar apenas um em muitos casos ou apenas alguns poucos programadores.
+
+Fiz meu primeiro curso de HTML em 1998. Então criei meu primeiro site no mesmo ano (https://ribafs.me/primeiro-site/), no extinto Geocities (hospedagem gratuita). Tecle Ctrl+U (view-source:https://ribafs.me/primeiro-site/) e verá que não usei CSS nem Javascript. O CSS1 ainda tinha 3 anos de vida e o Javascript tinha idade parecida. Como era umm site pessoal eu o fiz com o que conhecia, que era o HTML. Inclusive sem me procupar com design, cores, se combinavam ou não, se eram aberrantes ou não. Aquele era meu primeiro site e eu estava eufórico por ter ele publicado mundialmente.
+
+Muita água rolou desde então, muita coisa mudou. Hoje, se vouc riar um site, já não mais criou linha a linha, como fiz, mas aproveito um bonito e gratuito template entre uma enorme lista que me é ofertada generosamente. Para isso, atualmente, preciso conhecer, pelo menos um pouco, sobre CSS e Javascript. O resultado fica bonito, responsivo (obrigatório atualmente), mas a manutenção é algo trabalhoso, pois precisarei editar o código manualmente para as alterações ou adicionar novo conteúdo. Para solucionar isso eu uso um CMS. Não uso o CMS mais popular do mundo, pois me apaixonei por outro, desde antes mesmo que ele houvesse nascido (o Joomla, quando ainda era Mambo). Este fica bonito (talvez nem tanto quanto um lindo template, mas compensa com a facilidade do gerenciamento do conteúdo). Muita coisa mudou desde a criação do meu primeiro site. Gosto de dizer que não me acostumo com a velocidade em que nossa área muda. Não que isso me preocupe ou decepcione, pelo contrário, eu sou feito crianda, que gosta muito de novidades. Algo que não mudou durante todo este tempo é minha paixão pela área, que inclusive aumenta.
+
+Bem, meu interesse pela área me fez fazer esse curso de HTML em 1998 e acabou me atraindo pela área, tendo estudado diversas áreas da informática: internet (hoje ninguém estuda internet, a garotada nasce ao lado dela), hardware, linux, algumas linguagens e ferramentas de programação (Access, VB, C, C++, ASP). Até então nada de PHP que nasceu em 1994. Mas apareceu uma oportunidade para trabalhar com PHP e PostgreSQL, na época PHP 4 e nada de orientação a objetos, boas práticas, testes unitários. A missão era seguir uma receita e deixar funcionando (sem supervisão, o que é horrível).
+
+Resumindo: tenho trabalhado sem sueprvisão, por minha conta e sozinho, do jeito que bem entendo. Com o tempo, de tanto falarem que a orientação a objetos é algo de um nível muito superior, acabei me interessando e aprendendo algo. Depois veio o MVC. Me deu muito trabalho encontrar um exemplo bem didático, que me permitisse entender, customizar a acabar por criar meu próprio aplicativo usando MVC e alguns padrões.
+
+Finalizando a contextualização: Até hoje praticamente tenho trabalhado sozinho. Tenho estudado o que quero estudar e feito tudo meu jeito. Mas com a pandemia, estou trabalhando remotamente e me sobra um bom tempo livre. Então resolvi encontrar um job para preencher este tempo.
+
+Como se valorizar pra valer para o mercado de trabalho?
+
+Eu vejo uma forma consistente: você aprende o que a maioria sabe, o "feijão com arroz" e aprende, domina pra valer, tem segurança em algumas áreas específicas. Chega a um ponto em que o que você sabe chama a atenção das pessoas e de você mesmo. Eu me amo. Caramba, como ficou bom. Mas isso não é fácil, aliás, fácil é uma porcaria, pois todos podem fazer e não enaltece ninguém. Para atingir um perfil desejado por grandes empresas você precisa gostar de desafios, de tarefas difíceis. Daqueles que muita gente diz ser impossível. Também precisa ter um currículo/portfólio invejável, daqueles que são uma isca para as empresas. Daqueles que a empresa te procura para se certificar que realmente você conhece tudo aquilo. Mas as grandes empresas atuais, mesmo as médias e pequenas organizadas já não se semtem atraídas por um currículo grande, enorme. O currículo precisa listas conhecimentos que são importantes para elas resovlerem seus problemas do dia. E quais são eles. Bem, ainda é meu sonho trabalhar numa empresa grande e organizada, ao lado de uma equipe de colegas bons, muito bons. Ainda este mês eu perdi uma chance com uma cujos clientes são ministérios e outros gordos clientes. Nesta semana terei outra entrevista com uma empresa grande e organizada. Acontece que o recrutador me passou um teste que envolve um assunto complexo que eu nunca estudei. Irei listar em seduida.
+
+Não tenho nenhuma experiência, ainda, com grandes empresas. Mas tenho acompanhado as ofertas de trabalho em alguns grupos e até cheguei a me candidatar para alguns, portanto irei listar abaixo conhecimentos importantes para o mercado de trabalho papra quem trabalha com PHP. A frase anterior já precisa ser revista, pois praticamente todas as ofertas já exigem ou desejam conhecimentos auxiliares o que valoriza quem os tem. Segue a relação do que tenho visto nas ofertas e que me foi cobrado em testes e entrevistas. Lembrando que geralmente quanto mais conhecimento e domínio da área, melhor:
+
+- Frontend: HTML, CSS e Javascript não podem faltar
+- Acontece que surgiram diversos frameworks e bibliotecas que já estão sendo muito solicitados: Bootstrap, Rect, ...
+
+- PHP (estruturado, orientado a objetos, MVC, padrões de projetos e boas práticas)
+- PDO é vital (Doctrine ajuda)
+- MySQL (PostgreSQL e outro SGBD ajudam)
+- Framework: CakePHP, Laravel, Codeigniter, ...
+- CMS: Wordpress, Joomla, Opencart, ...
+
+- API
+- NodeJS
+- ElectronJS
+
+- Testes unitários, testes automatizados, DDD e cia (muito importantes, especialmente para grandes empresas e não somente)
+
+- Docker
+- Linux
+
+- Conhecimentos que não são cobrados, ainda, mas que valorizam cada um de nós: 
+    - arquitetura de redes e servidores
+    - hospedagem compartilhada, VPS e Cloud (precisamos para criar nossos sites e ajduar clientes a hospedarem os seus)
+    - segurança da informação 
+    - planejamento (elaboração de planejamento e projeto para cada aplicativo e banco criado)
+
+- Te valorizam:
+    - proatividade
+    - organização
+    - senso de compromisso, assiduidade e pontualidade
+    - responsabilidade
+    - integração com a equipe
+    - compartilhamento de conhecimentos
+    - foco nas prioridades
+
+Acredito que para conseguir dominar tudo isso precis ser um super humano.
+Bem, me parece que existe uma alternativa para humanos, como? Quando você trabalha e estuda em seu hobby, de forma que sua paixão é tão grande que absorve muita coisa rapidamente e com um bem forte foco. Assim podemos chegar a dominar muito algumas áreas. 
+
+A intenção desse texto é apenas alertar os colegas iniciantes que, como nosso objetivo é conseguir um job, trabalho, emprego ou constituir uma empresa competitiva, então precisa focar em áreas que o mercado precisa e procura e deixar em segundo plano ou esquecer outras. Veja que a programação é um mundo, são quase infinitas sub areas, então não tem como alguém dominar todas, emsmo que queira ou goste. Então foque naquelas que irão te ajudar a te colocar no mercado.
+
+Você somente consegue ser bom, dominar pra valer um ou mais assuntos, se gostar dele, mais ainda, se for apaixonado e se confiar que você consegue. Alguém conseguiu e você também é alguuém... If ... then.
+
