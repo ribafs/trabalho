@@ -1,0 +1,22 @@
+Melorando a Performance
+
+- Usar bancos de dados somente quando necessário
+- Otimizar, minimizar e reduzir consultas ao banco
+- Da mesma forma muito cuidado com serviços externos, trate com cuidado estes
+- Muito cuidado com os loops, especialmente testar se não é infinito
+- Evite função recursiva, função que chama função pode cair em loop infinito
+- Mantenha o código simples e organizado, evitando duplicações - KISS
+- Tenha um bom controle de erros e trate ao máximo com try/catchs
+- Tenha cuidado com todas as entradas de dados de formulários: validação de tamanho, tipo de dados, requerido, etc
+- Crie sempre o melhor software que pode
+- Use orientação a objetos, bons padrões, MVC
+- Modularize, componentize seu aplicativo
+- Tentar criar um código o mais flexível possível e evitar engessar algumas partes
+- Boa documentação do código com comentários para partes do código que demandem
+- Use nomes coerentes para arquivos, tabelas, campos, variáveis, funções e classes
+- Lembre de criar cada classe em um arquivo separado e que cada classe seja somente sobre um único assunto, problema
+
+Performance do PHP
+https://kinsta.com/pt/blog/benchmarks-definitivos-do-php/
+
+

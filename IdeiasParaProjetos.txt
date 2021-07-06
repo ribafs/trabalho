@@ -1,0 +1,119 @@
+Algumas Ideias para projetos em PHP
+
+Famosos criados com PHP:
+
+Facebook 
+Yahoo! 
+Wikipedia 
+WordPress 
+Joomla
+Tumblr 
+MailChimp 
+Flickr 
+Digg 
+iStockPhoto 
+Baidu
+Laravel 
+Zend 
+CakePHP
+Symfony 
+FuelPHP 
+
+CRUDs com bons recursos: paginação, PDO, busca, bootstrap
+
+Aplicativo com menu e alguns CRUDs
+
+Formulário de contato
+
+Blog
+
+Forum
+
+Chat
+
+Catálogo de links, organizado por categorias
+
+Reservas de Hotel
+
+Reservas de Motel
+
+Marcação de consultas de consultório médico ou dentário
+
+Controle de clientes
+
+Controle de chamadas/tickets
+
+Controle de inventário
+
+Controle de vendas/pedidos
+
+Site para divulgação de filmes/catálogo, com trailers e comentários
+
+Portal com catálogo de médicos, com informações sobre os mesmos, endereços, convênios, sites, etc
+
+Portal com catálogo de advogados, com informações sobre os mesmos, endereços, convênios, sites, etc
+
+Portal com catálogo de engenheiros, com informações sobre os mesmos, endereços, convênios, sites, etc
+
+Portal com catálogo de programadores, com informações sobre os mesmos, endereços, convênios, sites, etc
+
+...
+
+Portal com catálogo de farmácias, com informações sobre as mesmos, endereços, sites, preços de alguns remédios, etc
+
+Portal com catálogo de restaurantes, com informações sobre as mesmos, endereços, sites, alguns preços, etc
+
+Portal com ofertas de emprego para uma área específica, dicas sobre elaboração de currículo, entrevistas, etc
+
+Portal com tutoriais diversos, com material escrito, vídeos, áudios, etc.
+
+Site para uma academia de musculação, com endereço, telefone, modalidades oferecidas, fotos, dicas sobre saúde, musculação, etc
+
+Sistema com catálogo de serviços de entraga a domicílio: remédios, restaurantes, etc.
+
+Site com cursos online, matrícula, aulas e conteúdo em geral. Sugestão: Joomla
+
+Site com comércio eletrônico. Sugestão Opencart
+
+Site/landingpage? para divulgação de salão de beleza
+
+Portfólio
+
+Alugél de veículos
+
+Emissão de nota fiscal
+
+Controle de almoxarifado
+
+Controle de Fábricação
+
+Controle de estoque
+
+Perguntas e respostas - Quiz
+
+Cadastro de receitas
+
+Cadastros e controles diversos
+
+Caixa
+
+Cadastro e controle de clientes
+
+Protocolo
+
+Gestão escolar: alunos, funcionários, professores, matrícula, matérias, etc
+
+
+Demos online	
+
+Ideias para projetos Mobile
+
+Híbridos (HTML, CSS, JS e com Monaca) e podem ter uma base em servidor com PHP e MySQL de onde podem puxar informações.
+Ainda existe a possibilidade de se criar apenas um site responsivo que seja consultado via celular, mas o ideal é criar um aplicativo, que é mais prático.	
+
+Jogos educativos:
+- Memória
+
+Agendas
+
+
