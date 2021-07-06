@@ -1,7 +1,6 @@
 
 Engenharia de Dados
-Engenharia de Dados 1.958 seguidores 1 sem • Editado •
-Há 1 semana
+
 💡 É incrível como a procura por engenheiro de dados tem aumentado a cada dia, temos visto empresas buscando esse perfil profissional cada vez mais para resolver seus problemas com a grande quantidade de dados gerados nesses últimos tempos.
 
 ➡ A cada dia surge uma tecnologia nova onde o objetivo é chegar no final do dia com seus dados organizados e entregar os melhores insights para seus gestores.
@@ -15,3 +14,17 @@ Há 1 semana
 https://lnkd.in/egmgPXM
 
 Divulgado no Linkedin
+
+## Links de vagas
+
+https://github.com/backend-br/vagas
+
+https://github.com/frontendbr/vagas
+
+https://github.com/backend-br/vagas/issues
+
+https://github.com/qa-brasil/vagas
+
+https://github.com/brasil-php/vagas/issues
+
+https://github.com/topics/vagas-para-desenvolvedores
