@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=hL9aUmbPbjQ
 
 Free Code Camp
 
+Este é o melhor dos que experimentei. Muito prático e vemos o resultado dos exercícios na hora. Estou cursando o Responsive Web Design, CSS
+
 https://www.freecodecamp.org/
 
 Codecademy
