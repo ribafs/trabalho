@@ -17,5 +17,7 @@ https://www.freecodecamp.org/
 
 Codecademy
 
+Observe que existem cursos free e pagos. Os pagos aparecem com PRO
+
 https://www.codecademy.com/
 
