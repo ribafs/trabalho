@@ -1,12 +1,21 @@
 
 21 cursos gratuitos com certificado
+
 https://www.youtube.com/watch?v=tcjOMaU5k7c
 
 Cursos online grátis e com certificado
+
 https://www.youtube.com/watch?v=VDelkPk7lV0
 
 11 SITES PARA FAZER CURSOS ONLINE GRATUITOS COM CERTIFICADO NA QUARENTENA
+
 https://www.youtube.com/watch?v=hL9aUmbPbjQ
 
 Free Code Camp
+
 https://www.freecodecamp.org/
+
+Codecademy
+
+https://www.codecademy.com/
+
