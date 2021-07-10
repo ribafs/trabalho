@@ -1,3 +1,4 @@
+# Cursos Gratuitos com ou sem certificado
 
 21 cursos gratuitos com certificado
 
@@ -23,3 +24,10 @@ Observe que existem cursos free e pagos. Os pagos aparecem com PRO
 
 https://www.codecademy.com/
 
+DICAS PARA APRENDER INGLÊS E FICAR FLUENTE
+
+https://www.youtube.com/watch?v=AXsGukoWyDc&t=0s
+
+SITES PARA APRENDER INGLÊS DE GRAÇA
+
+https://www.youtube.com/watch?v=34JRAlBcKNA&t=0s
