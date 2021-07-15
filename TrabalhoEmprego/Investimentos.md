@@ -86,7 +86,8 @@ Está imperdível!
 Grande abraço,
 Eduardo Moreira.
 
-PS.: Entre agora mesmo para o nosso grupo no Whatsapp exclusivo
-sobre essa aula. Você receberá conteúdos especiais e os avisos
-mais importantes CLIQUE AQUI para entrar. Se você já estiver
-participando do nosso grupo, por favor desconsidere esse convite.
+
+
+6 SINAIS DE QUE VOCÊ NUNCA VAI FICAR RICA: o que fazer pra mudar isso e ganhar mais dinheiro!
+https://www.youtube.com/watch?v=mH-sBlgZ3d0
+
