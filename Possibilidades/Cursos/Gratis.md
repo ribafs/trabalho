@@ -1,9 +1,11 @@
-Com Certificado
+# Cursos Grátis com Certificado
 
-Curso em Vídeo
+## Curso em Vídeo
+
 https://www.cursoemvideo.com/
-https://www.youtube.com/c/CursoemV%C3%ADdeo
 
+https://www.youtube.com/c/CursoemV%C3%ADdeo
+```
 Algoritmos
 PHP Básico
 Java Básico
@@ -34,19 +36,28 @@ HTML 5 e CSS 3 - 3
 HTML 5 e CSS 3 - 4
 HTML 5 e CSS 3 - 5
 Wordpress + WooCommerce - 3
+```
 
-CFB Cursos
+## CFB Cursos
+
 https://www.youtube.com/c/cfbcursos
+
 https://www.youtube.com/c/cfbcursos/playlists
+
 Aqui você encontra HTML 5, JavaScript, CSS, C++, Flash, SQL, PHP, C#, Unity, Java, Redes, React Native, SQL, Python, Photoshop, Appinventosr, Unity 3D, QtCreator, Arduino, Impressora 3D,  e muito mais que ainda está por vir.
 
-Guia do Programador
+## Guia do Programador
+
 https://www.youtube.com/c/GuiadoProgramador
+
 https://www.youtube.com/c/GuiadoProgramador/playlists
+
 VueJS, KnexJS, NodeJS, Django, MySQL
 
-Descompila
+## Descompila
+
 https://www.youtube.com/c/Descompila/
+```
 Python
 PostgreSQL
 JPA Básico  
@@ -92,33 +103,43 @@ Inglês para crianças
 Git Básico
 Hot to Draw Videos (309)
 Segurança da Informação
+```
 
-Data Science Academy
+## Data Science Academy
+
 https://www.datascienceacademy.com.br/pages/cursos-gratuitos-1
-
+```
 Big Data
 IA
 Ciência de Dados
 MS Power BI
+```
 
-Cursos Grátis e Pagos
+## Outros Cursos Grátis ou Pagos
+
 https://www.datascienceacademy.com.br/pages/todos-os-cursos-dsa
 
-Coursera
-Gratuitos em inglÊs
+## Coursera
+
+Gratuitos em inglês
+
 https://www.coursera.org/courses?query=free
 
 Todos
+
 https://www.coursera.org/
 
-https://digitalinnovation.one/
+## https://digitalinnovation.one/ (recomendo)
+
 Gratuitos
+
 - Full-stack
 - Front-end
 - Back-end
 - Python
 
 https://www.kaggle.com/learn
+
 - Python
 - Maching Learn
 - Data visualization
@@ -132,4 +153,8 @@ https://www.kaggle.com/learn
 - Computer Vision
 - Geospatial Analyses
 - Microchallenges
+
+## Outro em inglês que também recomendo
+
+https://www.freecodecamp.org/
 
