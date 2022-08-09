@@ -18,11 +18,6 @@ E como arrumar um
 - Como con t ratar anúncios para sites
 - E mais outras dicas sobre o assunto
 
-Caso tenha uma dica interessante que queira compartilhar me mande via Issues
-
-https://github.com/ribafs/trabalho/issues
-
-O Github me avisa por e-mail então eu publico aqui compartilhando com os demais e com o devido crédito a você.
 
 ## Estudo
 
