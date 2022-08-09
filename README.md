@@ -24,3 +24,7 @@ E como arrumar um
 Um repositório com material sobre estudo, especialmente sobre o estudo da programação
 
 [https://github.com/ribafs/estudo](https://github.com/ribafs/estudo)
+
+## Primeiro emprego
+
+https://ribamar.net.br/portal/blog/reflexoes/primeiro-emprego
