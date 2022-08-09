@@ -23,3 +23,9 @@ Caso tenha uma dica interessante que queira compartilhar me mande via Issues
 https://github.com/ribafs/trabalho/issues
 
 O Github me avisa por e-mail então eu publico aqui compartilhando com os demais e com o devido crédito a você.
+
+## Estudo
+
+Um repositório com material sobre estudo, especialmente sobre o estudo da programação
+
+[https://github.com/ribafs/estudo](https://github.com/ribafs/estudo)
